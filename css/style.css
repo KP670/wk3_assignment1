@@ -1,0 +1,16 @@
+/* do I need css??? */
+body {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.container {
+    padding: 10px;
+}
+a {
+    margin-bottom: 0;
+}
+
+/* might need to remove */
+hr {
+    margin: 0;
+}
