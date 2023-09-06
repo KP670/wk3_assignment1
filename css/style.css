@@ -1,16 +1,28 @@
 /* do I need css??? */
 body {
-    font-family: Arial, Helvetica, sans-serif;    
+    font-family: Arial, Helvetica, sans-serif;  
 }
 
-.container {
-    padding: 10px;
-}
 a {
     margin-bottom: 0;
+    text-decoration: none;
+    color: black;
+    font-weight: 545;
 }
 
 /* might need to remove */
 hr {
     margin: 0;
+    height: 2px;
+    background-color: black;
 }
+
+/* a {
+    color: black
+}
+:hover a {
+   font-size: 10px;
+}
+:visited a {
+    color: black
+} */
